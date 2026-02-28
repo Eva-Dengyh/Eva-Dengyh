@@ -1,68 +1,85 @@
-<!-- 1. 顶部打招呼和名字 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [你的名字]</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Eva</h1>
 
-<!-- 2. 顶部社交徽章 (如果没有可以整段删除) -->
-<p align="center">
-   <a href="https://www.linkedin.com/in/[你的领英ID]/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+<!-- 
+  社交媒体徽章区域 
+  [可替换]: 将 href 中的链接替换为你的 LinkedIn 个人主页 
+  [可替换]: 也可以修改 img src 中的 label 文字 (例如 linkedin-sachuverma-blue 改为你自己的ID)
+-->
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/sachuverma/">
+    <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
   </a>
-  <a href="https://www.instagram.com/[你的InsID]/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30">
+  
+  <!-- [可替换]: 将 href 替换为你的 Instagram 链接 -->
+  <a href="https://www.instagram.com/sachuverma_/">
+    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
   </a>
 </p>
 
-<!-- 3. 职位和简介 -->
-<h3 align="center">A passionate Developer from [你的城市/国家] 🇨🇳</h3>
-<h3 align="center">[你的职位，例如：Student / Front-end Engineer]</h3>
+<h3 align="center">An AI application development engineer.</h3>
+<h3 align="center">Bachelor of Engineering degree, majoring in Software Engineering</h3>
 
-<!-- 4. 访问量统计 (必须修改 username) -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=[你的GitHub用户名]&label=Profile%20Views" alt="访问量统计"/>
-</p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Eva-Dengyh alt=Eva-Dengyh/></p>
 
-<!-- 5. 右侧插画 -->
-<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- 右侧装饰大图 (通常不需要替换，除非你有别的配图) -->
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!-- 6. 个人状态列表 -->
-- 🔭 I’m currently working on **[你的项目名称]**
-- 🌱 I’m currently learning **[你正在学的技术]**
-- 💬 Ask me about **Java, Python, React...**
-- 😄 Employement **[Open for work / Hired]**
-- ⚡ Fun fact **I love coding 💻**
-- 📫 How to reach me: **[你的邮箱@email.com]**
+<!-- 
+  个人动态列表 (Markdown 语法)
+  [可替换]: 修改粗体字部分为你自己的项目、学习内容和邮箱
+-->
+- 🔭 I’m currently working on **AI application development**
+- 🌱 I’m currently learning **LLMs and LangChain**
+- 💬 Ask me about **Python Development**
+- 😄 My goal **To become an excellent developer**
+- ⚡ Fun fact  **Stephen Chow** ❤
+- 📫 How to reach me **yoliedeng@gmail.com**
 
-<!-- 7. 技术栈图标 (不用的整行删除) -->
-<h4>Programming Languages: </h4>
+<!-- 编程语言图标区域 -->
+<h4>Main Programming Language: Python</h4>
 <p align="left">
- <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="50" height="50"/>
- <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/java.png" alt=java width="50" height="50"/>
- <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="50" height="50"/>
- <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="50" height="50"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 
-<h4>Tools & Frameworks: </h4>
+<!-- 技能和工具图标区域 -->
+<!-- 技能和工具图标区域 -->
+<h4>Skills and Tools:</h4>
 <p align="left">
-    <!-- 这里使用 HTML 标签引入图标，不需要的直接删掉对应的 <img ...> 标签 -->
-	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
-	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
-	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="50" height="50"/> 
-	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vue.png" alt=vue width="50" height="50"/>
-    <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="50" height="50"/> 
-	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="50" height="50"/>
-    <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="50" height="50"/>
-    <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="50" height="50"/>
+  <!-- 主编程语言 -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+
+  <!-- 常用开发平台/框架 -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="60" height="60"/>
+
+  <!-- 数据库与中间件 -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+
+  <!-- 运维 & 工具 -->
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/>
+  <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="6
+  <!-- 如果有针对性的Polygon、OpenRouter、Kling、PostHog图标，可以自己添加 -->
+
 </p>
 
-<br/>
-
-<!-- 8. GitHub 数据统计卡片 (必须修改 username) -->
-<p align="center">
-	<img style="margin: auto;" src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical" alt="你的统计" /> 
+<!-- 桌面环境/系统图标区域 -->
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="60" height="60"/>
+  <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="mac" width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<!-- 9. 底部社交链接 -->
-<p align="center">
-<a href="https://github.com/[你的GitHub用户名]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
-<a href="https://blog.csdn.net/[你的CSDN ID]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csdn.svg" alt="csdn" height="30" width="30" /></a>
-<a href="mailto:[你的邮箱@email.com]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>
-</p>
+
