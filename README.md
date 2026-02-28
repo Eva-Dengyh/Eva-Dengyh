@@ -23,7 +23,6 @@
 - 🤖 Interested in **AI Systems**
 - ⚡ Fan of **Stephen Chow** ❤
 
-<br>
 
 ### 🛠 Tech Stack
 
