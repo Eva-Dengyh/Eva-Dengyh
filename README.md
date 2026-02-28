@@ -1,51 +1,68 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<!-- 1. 顶部打招呼和名字 -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [你的名字]</h1>
 
-### I'm Siwei Zhou
+<!-- 2. 顶部社交徽章 (如果没有可以整段删除) -->
+<p align="center">
+   <a href="https://www.linkedin.com/in/[你的领英ID]/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="https://www.instagram.com/[你的InsID]/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30">
+  </a>
+</p>
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+<!-- 3. 职位和简介 -->
+<h3 align="center">A passionate Developer from [你的城市/国家] 🇨🇳</h3>
+<h3 align="center">[你的职位，例如：Student / Front-end Engineer]</h3>
 
-### 🛠 技术栈 | Tech Stack
+<!-- 4. 访问量统计 (必须修改 username) -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=[你的GitHub用户名]&label=Profile%20Views" alt="访问量统计"/>
+</p>
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+<!-- 5. 右侧插画 -->
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+<!-- 6. 个人状态列表 -->
+- 🔭 I’m currently working on **[你的项目名称]**
+- 🌱 I’m currently learning **[你正在学的技术]**
+- 💬 Ask me about **Java, Python, React...**
+- 😄 Employement **[Open for work / Hired]**
+- ⚡ Fun fact **I love coding 💻**
+- 📫 How to reach me: **[你的邮箱@email.com]**
 
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+<!-- 7. 技术栈图标 (不用的整行删除) -->
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="50" height="50"/>
+ <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/java.png" alt=java width="50" height="50"/>
+ <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="50" height="50"/>
+ <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="50" height="50"/>
+</p>
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+<h4>Tools & Frameworks: </h4>
+<p align="left">
+    <!-- 这里使用 HTML 标签引入图标，不需要的直接删掉对应的 <img ...> 标签 -->
+	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="50" height="50"/> 
+	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="50" height="50"/> 
+	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="50" height="50"/> 
+	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vue.png" alt=vue width="50" height="50"/>
+    <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="50" height="50"/> 
+	<img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="50" height="50"/>
+    <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="50" height="50"/>
+    <img style="margin: 10px;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="50" height="50"/>
+</p>
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+<br/>
+
+<!-- 8. GitHub 数据统计卡片 (必须修改 username) -->
+<p align="center">
+	<img style="margin: auto;" src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical" alt="你的统计" /> 
+</p>
+
+<!-- 9. 底部社交链接 -->
+<p align="center">
+<a href="https://github.com/[你的GitHub用户名]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
+<a href="https://blog.csdn.net/[你的CSDN ID]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csdn.svg" alt="csdn" height="30" width="30" /></a>
+<a href="mailto:[你的邮箱@email.com]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>
+</p>
