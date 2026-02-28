@@ -7,6 +7,7 @@
 </p>
 
 <h3 align="center">AI Application Development Engineer</h3>
+<h3 align="center">Bachelor of Engineering degree, majoring in Software Engineering</h3>
 
 <br>
 
