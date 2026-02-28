@@ -25,18 +25,13 @@
 
 - 🔭 I’m currently working on **AI application development**
 - 🌱 I’m currently learning **LLMs and LangChain**
+- 💻 Main Programming Language **Python**
 - 💬 Ask me about **Python Development**
 - 😄 My goal **To become an excellent developer**
 - ⚡ Fun fact **Stephen Chow** ❤
 - 📫 How to reach me **yoliedeng@gmail.com**
 
 <br>
-
-<h4>Main Programming Language: Python</h4>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-       alt="python" width="60" height="60"/>
-</p>
 
 <h4>Skills and Tools:</h4>
 <p align="left">
