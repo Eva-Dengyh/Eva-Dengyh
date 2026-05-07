@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 👩‍💻 About Me
 
@@ -37,6 +37,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 
+
+<td width="50%">
 
 ### 📊 Github Stats
 
